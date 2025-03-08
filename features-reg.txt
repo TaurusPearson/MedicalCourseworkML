@@ -1,0 +1,10 @@
+ER
+Gene
+HER2
+original_glszm_ZoneEntropy
+ChemoGrade
+original_shape_MajorAxisLength
+original_shape_Maximum2DDiameterRow
+original_shape_Maximum3DDiameter
+original_firstorder_MeanAbsoluteDeviation
+original_firstorder_Range

@@ -1,0 +1,10 @@
+Gene
+ER
+HER2
+PgR
+Proliferation
+original_gldm_DependenceVariance
+original_gldm_DependenceEntropy
+original_gldm_LargeDependenceEmphasis
+original_glrlm_RunEntropy
+original_glrlm_RunLengthNonUniformityNormalized
